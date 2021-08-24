@@ -1,4 +1,4 @@
-# DjedBozicnjak-sinkroniziran-semaforima
+# DjedBozicnjak-sinkroniziran-semaforima i Filozofi monitorom
 Tematika kolegija Operacijski sustavi na Fakultetu elektrotehnike i računarstva u Zagrebu.
 
 DJED BOZICNJAK:
